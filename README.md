@@ -5,7 +5,8 @@ To enable you to review the contents and redo the demos I showed during my talk,
 
 ## eBPF
 
-* Thomas Graf (Isovalent): "eBPF - Everything you need to now in 5 minutes" https://youtu.be/KhPrMW5Rbbc![image](https://user-images.githubusercontent.com/8014314/232334540-ce34deb5-7ea0-4b66-b65a-9b2a7a65d813.png)
+* Thomas Graf (Isovalent): "eBPF - Everything you need to now in 5 minutes" [https://youtu.be/KhPrMW5Rbbc](https://youtu.be/KhPrMW5Rbbc)
+* [https://www.youtube.com/watch?v=6CZ_SSTqb4g](https://www.youtube.com/watch?v=6CZ_SSTqb4g)
 
 
 The deployment foundation is taken from here: [serverlessland.com/patterns/sql-lambda](https://serverlessland.com/patterns/sqs-lambda)
