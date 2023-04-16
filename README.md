@@ -6,7 +6,11 @@ To enable you to review the contents and redo the demos I showed during my talk,
 ## eBPF
 
 * Thomas Graf (Isovalent): "eBPF - Everything you need to now in 5 minutes" [https://youtu.be/KhPrMW5Rbbc](https://youtu.be/KhPrMW5Rbbc)
-* [https://www.youtube.com/watch?v=6CZ_SSTqb4g](https://www.youtube.com/watch?v=6CZ_SSTqb4g)
+* Official eBPF sources: [https://en.wikipedia.org/wiki/EBPF](https://en.wikipedia.org/wiki/EBPF), [https://ebfp.io](https://ebfp.io)
+* Who is using eBPF? [https://www.infoq.com/articles/ebpf-cloud-native-platforms/](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
+* Since when is eBPF available? [https://github.com/iovisor/bcc](https://github.com/iovisor/bcc)
+
+## BCC - 
 
 
 The deployment foundation is taken from here: [serverlessland.com/patterns/sql-lambda](https://serverlessland.com/patterns/sqs-lambda)
@@ -16,3 +20,4 @@ Important: this application uses various AWS services and there are costs associ
 ## Cilium
 
 * one
+* []()
