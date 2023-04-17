@@ -18,6 +18,7 @@ To enable you to review the contents and redo the demos I showed during my talk,
 * Available Linux system calls: [https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
 * Hello World with map / ring buffer to persist e.g. a counter variable: [https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649](https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649)
 * Precompiled binaries in BCC: e.g. "sudo /usr/share/bcc/tools/execsnoop"
+* eBPF map example to persist data: https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649
 * Free O'Reilly book available: "Learning eBPF" by Liz Rize (Isovalent): [https://isovalent.com/learning-ebpf/](https://isovalent.com/learning-ebpf/)
 * More free books: [https://isovalent.com/resource-library/books/](https://isovalent.com/resource-library/books/)
 
