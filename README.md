@@ -17,14 +17,16 @@ To enable you to review the contents and redo the demos I showed during my talk,
 * Available Linux system calls: [https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
 * Hello World with map / ring buffer to persist e.g. a counter variable: [https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649](https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649)
 * Precompiled binaries in BCC: e.g. "sudo /usr/share/bcc/tools/execsnoop"
+* Free O'Reilly book available: "Learning eBPF" by Liz Rize (Isovalent): [https://isovalent.com/learning-ebpf/](https://isovalent.com/learning-ebpf/)
 
 ## Alternative to BCC: bumblebee by solo.io
 
 * Intro: [https://www.solo.io/blog/solo-announces-bumblebee/](https://www.solo.io/blog/solo-announces-bumblebee/)
-* 
-
 
 ## Cilium
 
-* one
-* []()
+* Start: [https://cilium.io](https://cilium.io)
+* Free Tutorials (bottom right of page): [https://cilium.io/enterprise/#trainings](https://cilium.io/enterprise/#trainings)
+* Installation steps used in my demo: [https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/](https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/)
+* K8s example application used in demo: [https://istio.io/latest/docs/examples/bookinfo/](https://istio.io/latest/docs/examples/bookinfo/)
+* Cilium multi-cloud use case: [https://youtu.be/6CZ_SSTqb4g?t=377](https://youtu.be/6CZ_SSTqb4g?t=377)
