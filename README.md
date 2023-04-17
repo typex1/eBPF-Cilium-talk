@@ -18,10 +18,12 @@ To enable you to review the contents and redo the demos I showed during my talk,
 * Hello World with map / ring buffer to persist e.g. a counter variable: [https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649](https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649)
 * Precompiled binaries in BCC: e.g. "sudo /usr/share/bcc/tools/execsnoop"
 * Free O'Reilly book available: "Learning eBPF" by Liz Rize (Isovalent): [https://isovalent.com/learning-ebpf/](https://isovalent.com/learning-ebpf/)
+* More free books: [https://isovalent.com/resource-library/books/](https://isovalent.com/resource-library/books/)
 
 ## Alternative to BCC: bumblebee by solo.io
 
 * Intro: [https://www.solo.io/blog/solo-announces-bumblebee/](https://www.solo.io/blog/solo-announces-bumblebee/)
+* Example used in demo: sudo env "PATH=$PATH" bee run ghcr.io/solo-io/bumblebee/exitsnoop:$(bee version)
 
 ## Cilium
 
