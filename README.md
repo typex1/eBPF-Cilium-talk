@@ -7,6 +7,7 @@ To enable you to review the contents and redo the demos I showed during my talk,
 
 * Thomas Graf (Isovalent): "eBPF - Everything you need to now in 5 minutes" [https://youtu.be/KhPrMW5Rbbc](https://youtu.be/KhPrMW5Rbbc)
 * Official eBPF sources: [https://en.wikipedia.org/wiki/EBPF](https://en.wikipedia.org/wiki/EBPF), [https://ebfp.io](https://ebfp.io)
+* Brendan Gregg (Netflix): Performance Wins with eBPF https://www.youtube.com/watch?v=bGAVrtb_tFs
 * Who is using eBPF? [https://www.infoq.com/articles/ebpf-cloud-native-platforms/](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 * Since when is eBPF available? Since Linux kernel 3.15: [https://github.com/iovisor/bcc](https://github.com/iovisor/bcc)
 
