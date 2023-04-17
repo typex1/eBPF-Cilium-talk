@@ -8,14 +8,21 @@ To enable you to review the contents and redo the demos I showed during my talk,
 * Thomas Graf (Isovalent): "eBPF - Everything you need to now in 5 minutes" [https://youtu.be/KhPrMW5Rbbc](https://youtu.be/KhPrMW5Rbbc)
 * Official eBPF sources: [https://en.wikipedia.org/wiki/EBPF](https://en.wikipedia.org/wiki/EBPF), [https://ebfp.io](https://ebfp.io)
 * Who is using eBPF? [https://www.infoq.com/articles/ebpf-cloud-native-platforms/](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
-* Since when is eBPF available? [https://github.com/iovisor/bcc](https://github.com/iovisor/bcc)
+* Since when is eBPF available? Since Linux kernel 3.15: [https://github.com/iovisor/bcc](https://github.com/iovisor/bcc)
 
-## BCC - 
+## BCC = BPF Compiler Collection
 
+* Installation and usage: [https://github.com/iovisor/bcc](https://github.com/iovisor/bcc)
+* Hello World example from slides: [https://github.com/iovisor/bcc/blob/master/examples/hello_world.py](https://github.com/iovisor/bcc/blob/master/examples/hello_world.py)
+* Available Linux system calls: [https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
+* Hello World with map / ring buffer to persist e.g. a counter variable: [https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649](https://gist.github.com/lizrice/47ad44a15cce912502f8667a403f5649)
+* Precompiled binaries in BCC: e.g. "sudo /usr/share/bcc/tools/execsnoop"
 
-The deployment foundation is taken from here: [serverlessland.com/patterns/sql-lambda](https://serverlessland.com/patterns/sqs-lambda)
+## Alternative to BCC: bumblebee by solo.io
 
-Important: this application uses various AWS services and there are costs associated with these services after the Free Tier usage - please see the [AWS Pricing page](https://aws.amazon.com/pricing/) for details. You are responsible for any AWS costs incurred. No warranty is implied in this example.
+* Intro: [https://www.solo.io/blog/solo-announces-bumblebee/](https://www.solo.io/blog/solo-announces-bumblebee/)
+* 
+
 
 ## Cilium
 
