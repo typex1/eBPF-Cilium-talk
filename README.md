@@ -28,7 +28,7 @@ To enable you to review the contents and redo the demos I showed during my talk,
 ## Cilium
 
 * Recap: Kubernetes Cluster architecture: https://kubernetes.io/docs/concepts/overview/components/
-* Start: [https://cilium.io](https://cilium.io)
+* Cilium start: [https://cilium.io](https://cilium.io)
 * Free Tutorials (bottom right of page): [https://cilium.io/enterprise/#trainings](https://cilium.io/enterprise/#trainings)
 * Installation steps used in my demo: [https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/](https://docs.cilium.io/en/stable/gettingstarted/k8s-install-default/)
 * K8s example application used in demo: [https://istio.io/latest/docs/examples/bookinfo/](https://istio.io/latest/docs/examples/bookinfo/)
